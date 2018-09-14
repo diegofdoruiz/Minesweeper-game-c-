@@ -4,7 +4,7 @@
 	* clone
 	* unzip
 	* execute make
-	* for some unit tests ./logictest 
+	* for some unit tests ./testlogic 
 	* for to play ./minesweeper
 
 ## Requeriments
