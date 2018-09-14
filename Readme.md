@@ -4,6 +4,8 @@
 	* clone
 	* unzip
 	* execute make
+	* for some unit tests ./logictest 
+	* for to play ./minesweeper
 
 ## Requeriments
 	* c++ 11
